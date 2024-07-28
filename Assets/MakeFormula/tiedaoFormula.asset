@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96f581ef8166c8043bbe6d8b046ff1f9, type: 3}
+  m_Name: tiedaoFormula
+  m_EditorClassIdentifier: 
+  MakeId: 1
+  MakeName: "\u94C1\u5200"
+  MakeImage: {fileID: 21300000, guid: e5ac0e5a39444f845b9a286a2310851b, type: 3}
+  MakeInfo: "\u4F7F\u7528\u751F\u94C1\u548C\u6728\u5934\u5236\u4F5C\u800C\u6210\uFF0C\u653B\u51FB\u8303\u56F4\u4E00\u822C\uFF0C\u4F24\u5BB3\u9002\u4E2D\u3002"
+  FormulaElemList:
+  - NeedId: 3
+    NeedImage: {fileID: 21300000, guid: 209b4ddd5c20add4da0b084644cc94e2, type: 3}
+    NeedNum: 10
+    NeedName: "\u751F\u94C1"
+  - NeedId: 5
+    NeedImage: {fileID: 21300000, guid: 900b363c3ff9edd418c90f06ecb574f6, type: 3}
+    NeedNum: 5
+    NeedName: "\u80F6\u5E26"
+  - NeedId: 4
+    NeedImage: {fileID: 21300000, guid: e447a3bdea5a4434684acbc9c6c71092, type: 3}
+    NeedNum: 10
+    NeedName: "\u6728\u5934"
