@@ -1,7 +1,8 @@
 <!-- markdownlint-disable -->
 
 <div align="center">
-  <img alt="LOGO" src="https://github.com/piqiu8/Fortress/blob/master/Assets/Image/fortess_background.png" width="777" height="170" />
+  <img alt="LOGO" src="https://github.com/piqiu8/Simple-Inventory-System/blob/master/Assets/README_Image/README_Image_1.png" width="645" height="392" />
+  <br>
   <br>
   <div>
     <img alt="platform" src="https://img.shields.io/badge/platform-Windows-blue">
@@ -25,19 +26,10 @@
 
 <details><summary>图片如下</summary>
   <picture>
-    <img alt="Readme Image 1" src="https://github.com/piqiu8/Fortress/blob/master/Assets/Image/readme_1.png" width="640" height="360"/>
+    <img alt="Readme Image 2" src="https://github.com/piqiu8/Simple-Inventory-System/blob/V1.0.0/Assets/README_Image/README_Image_2.gif" width="640" height="360"/>
   </picture>
   <picture>
-    <img alt="Readme Image 2" src="https://github.com/piqiu8/Fortress/blob/master/Assets/Image/readme_2.gif" width="640" height="360"/>
-  </picture>
-  <picture>
-    <img alt="Readme Image 3" src="https://github.com/piqiu8/Fortress/blob/master/Assets/Image/readme_3.gif" width="640" height="360"/>
-  </picture>
-  <picture>
-    <img alt="Readme Image 4" src="https://github.com/piqiu8/Fortress/blob/master/Assets/Image/readme_4.gif" width="640" height="360"/>
-  </picture>
-  <picture>
-    <img alt="Readme Image 5" src="https://github.com/piqiu8/Fortress/blob/master/Assets/Image/readme_5.gif" width="640" height="360"/>
+    <img alt="Readme Image 3" src="https://github.com/piqiu8/Simple-Inventory-System/blob/V1.0.0/Assets/README_Image/README_Image_3.gif" width="640" height="360"/>
   </picture>
 </details>
 
@@ -45,7 +37,7 @@
 
 ## 下载地址
 
-- [完整版](https://github.com/piqiu8/Fortress/releases/tag/V1.0.0)
+- [版本V1.0.0](https://github.com/piqiu8/Simple-Inventory-System/releases/tag/V1.0.0)
 
 ## 基本操作
 
