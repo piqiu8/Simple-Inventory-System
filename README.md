@@ -3,7 +3,6 @@
 <div align="center">
   <img alt="LOGO" src="https://github.com/piqiu8/Simple-Inventory-System/blob/master/Assets/README_Image/README_Image_1.png" width="645" height="392" />
   <br>
-  <br>
   <div>
     <img alt="platform" src="https://img.shields.io/badge/platform-Windows-blue">
     <img alt="language" src="https://img.shields.io/badge/language-C%23-blueviolet">
